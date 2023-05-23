@@ -1,10 +1,10 @@
 # Everyday-Paper
 
-每日论文系列介绍：
+###### 万丈高楼平地起——每日简读一篇AI相关论文
 
-今日论文：
+今日论文：[Integral Neural Networks](论文/Integral Neural Networks.md)
 
-
+  
 
 目录（分类别）
 
