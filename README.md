@@ -10,7 +10,7 @@
 
 [多模态学习](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/多模态学习)
 
-[零/少样本学习](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/零//少样本学习)
+[零/少样本学习](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/零少样本学习)
 
 [对比学习](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/对比学习)
 
