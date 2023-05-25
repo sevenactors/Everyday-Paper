@@ -24,7 +24,7 @@
 
 4. 模型前向过程：根据xt与t预测噪声（参数所在），之后用固定公式计算出均值方差，最后用重参数采样出xt-1
 
-   ![Diffusion Model前向过程](D:\GitHub工程\Everyday-Paper\论文\img\WADM1.png)
+   ![Diffusion Model前向过程](./img/WADM1.png)
 
 5. loss的推导
 
