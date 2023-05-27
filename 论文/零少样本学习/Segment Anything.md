@@ -1,0 +1,1 @@
+[to this link](../分割/Segment Anthing.md)

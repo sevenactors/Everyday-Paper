@@ -8,6 +8,8 @@
 
 日期：2023/5/24
 
+分类：diffusion model
+
 =======
 
 【summary】

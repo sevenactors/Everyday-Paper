@@ -2,7 +2,7 @@
 
 ###### 万丈高楼平地起——每日简读一篇AI相关论文
 
-今日论文：[Segment Anything](https://github.com/sevenactors/Everyday-Paper/blob/main/论文/扩散模型/Segment%20Anything.md)
+今日论文：[Segment Anything](https://github.com/sevenactors/Everyday-Paper/blob/main/论文/分割/Segment%20Anything.md)
 
   
 
