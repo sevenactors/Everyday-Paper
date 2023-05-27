@@ -1,1 +1,1 @@
-[to this link](../分割/Segment Anything.md)
+[to this link](https://github.com/sevenactors/Everyday-Paper/blob/main/论文/分割/Segment%20Anything.md)
