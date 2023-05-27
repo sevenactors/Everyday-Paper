@@ -28,6 +28,8 @@
 
 [目标检测](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/目标检测)
 
+[分割](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/分割)
+
 [AI理论](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/AI理论)
 
 [AI应用](https://github.com/sevenactors/Everyday-Paper/tree/main/论文/AI应用)
