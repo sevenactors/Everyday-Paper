@@ -2,7 +2,7 @@
 
 ###### 万丈高楼平地起——每日简读一篇AI相关论文
 
-今日论文：[DragGAN](https://github.com/sevenactors/Everyday-Paper/blob/main/论文/生成对抗网络/DragGANs.md)
+今日论文：[Castling-ViT](https://github.com/sevenactors/Everyday-Paper/blob/main/论文/注意力架构/Castling-ViT.md)
 
   
 
